@@ -2,6 +2,8 @@
 Run Terraform from inside an AWS lambda
 
 TF_ACTION environment variable controls terraform runtime behavior (plan, apply, init)
+
+
 TF_CLI_ARGS can be used to pass in terraform inputs for TF_VARS
 
 ```

@@ -14,3 +14,11 @@ TF_CLI_ARGS can be used to pass in terraform inputs for TF_VARS
           TF_LOG: ERROR
           TF_PLUGIN_CACHE_DIR: /tmp/plugin-cache/
 ```
+
+
+Available TF Providers:
+
+AWS
+Local
+Null
+TLS
